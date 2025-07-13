@@ -19,7 +19,7 @@
 
 ---
 <div align="center">
-  <img src="https://files.catbox.moe/12ry7x.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://files.catbox.moe/u9r85d.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TXLV-V2+XMD;DEPLOYMENT+STEPS"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CHEGE+XMD;DEPLOYMENT+STEPS"alt="Animated
 
 <div style="background: #000000; border: 1px solid #00ffff; border-radius: 15px; padding: 20px; box-shadow: 0 0 15px #00ffff; margin-bottom: 30px;">
   
@@ -53,7 +53,7 @@
 
 ### <img src="https://github.com/lovertoxic/TOXIC-LOVER-V2-XMD /blob/main/assets/keyicon.gif?raw=true" width="25"/> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=TXLV-V2+XMD;SESSION+ID+LINKS"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CHEGE+XMD;SESSION+ID+LINKS"alt="Animated
   
 <div style="background: #111111; padding: 15px; border-radius: 10px; border-left: 3px solid #00ffff;">
   
