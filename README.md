@@ -1,7 +1,5 @@
-img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87CEEB&height=180&section=header&text=CHEGE%20XMD-%20WHATSAPP%20BOT&fontSize=38&fontColor=ffffff&fontFamily=Roboto&animation=twinkling" width="100%"/>
 
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;FORK;TOXIC;LOVER-V2;-XMD;REPO" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=REMEMBER+TO;STAR+AND;CHEGE-XMD;REPO" alt="Typing SVG" /></a>
   </p>
 ```
 
@@ -85,7 +83,7 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/techwave.gif?raw=true" width="80%"/>
 </div>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPER+XMD;DEPLOYMENT+SIGHT"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CHEGE+XMD;DEPLOYMENT+SIGHT"alt="Animated
 
 <div align="center">
   <table>
@@ -109,7 +107,7 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=JEEPERS+CREEPERS-XMD;BOT+FEATURES;ANTIDELETE;ANTIVIEWONCE;ANTILINK;ALL+PLATFORM+DL;AND+ETC:AT+2025"alt="Animated
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CHEGE-XMD;BOT+FEATURES;ANTIDELETE;ANTIVIEWONCE;ANTILINK;ALL+PLATFORM+DL;AND+ETC:AT+2025"alt="Animated
 
 <div align="center">
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/cyberdivider.gif?raw=true" width="100%"/>
@@ -153,7 +151,7 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87
   <img src="https://github.com/toxiclover-tech/TOXIC-LOVER-MD/blob/main/assets/futuretech.gif?raw=true" width="100%"/>
 </div>
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=JEEPERS;CREEPER-XMD;BOT" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=CHEGE-XMD;BOT" alt="Typing SVG" /></a>
   </p>
 
 ```diff
@@ -168,5 +166,5 @@ img src="https://capsule-render.vercel.app/api?type=waving&color=0:87CEEB,100:87
 
 <p align="center">
   <a href="https://github.com/toxiclover-tech">
-    <img title="Developer" src="https://img.shields.io/badge/Author-JEEPERS%20CREEPERS%20XMD-FF00FF.svg?style=big-square&logo=github" />
+    <img title="Developer" src="https://img.shields.io/badge/Author-CHEGE%20XMD-FF00FF.svg?style=big-square&logo=github" />
   </a>
